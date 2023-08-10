@@ -7,7 +7,7 @@ reolink_zone.sh is bash script to get, set zone of reolink https cameras (E1 zoo
 with zones you can simply activate or deactivate cameras, and coupled with home assistant you can turn on alarm when at home and
 disabled alarm when not, for example.
 
-## Setup Credential ##
+## Setup Credentials ##
 
 You must create a file .reolink_personal with your credential:
 
@@ -18,7 +18,7 @@ declare -A CAMERA
 CAMERA["room"]="192.168.1.250" 
 ```
 
-## Get zone ##
+## Get Zone ##
 
 you can get the current zone status with:
 
@@ -35,7 +35,7 @@ reolink_zone.sh room get enabled
 
 the script will save the actual zone from (room) camera in room_enabled.json.
 
-## Set zone ##
+## Set Zone ##
 
 Converserly you can set the zone with:
 
@@ -46,7 +46,7 @@ reolink_zone.sh room set enabled
 the script will load the file room_enabled.json and set it to (room) camera.
 
 
-## Recap ##
+## To Recap ##
 
 Once you save your enabled, disable, personalized zone with get, you can switch from one to another with set.
 
