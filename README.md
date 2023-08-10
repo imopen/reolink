@@ -33,7 +33,7 @@ for example, if your camera at the moment is set with active zones, you can save
 reolink_zone.sh room get enabled
 ```
 
-the script will save the zone in room_enabled.json.
+the script will save the actual zone from (room) camera in room_enabled.json.
 
 ## Set zone ##
 
