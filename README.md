@@ -11,7 +11,8 @@ the usage is simply:
 
 given a .reolink_personal with your credential:
 
-USER="USER" 
+USER="USER"
+
 PASS="PASS" 
 
 declare -A CAMERA
