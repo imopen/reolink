@@ -24,7 +24,6 @@ CAMERA["room"]="192.168.1.250"
 reolink_zone.sh room_name [get|set] zone_name
 ```
 
-
 ## Get Zone ##
 
 you can get the current zone status with [get] command, for example, if your camera at the moment is set with active zones, you can save this status with:
