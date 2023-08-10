@@ -1,6 +1,6 @@
 # reolink_zone.sh #
 
-First of all, thanks to @jasonk for his inspiring script https://gist.github.com/jasonk/4772d1cd5154069cfc9eed07acb2057a 
+First of all, thanks to [@jasonk](https://github.com/jasonk) for his inspiring [script](https://gist.github.com/jasonk/4772d1cd5154069cfc9eed07acb2057a)
 that I simplified for my needs.
 
 reolink_zone.sh is bash script to get, set activation zone of reolink IP cameras with https web interface (E1 zoom, E1 outdoor for example), 
