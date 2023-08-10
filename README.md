@@ -48,5 +48,5 @@ the script will load the file room_enabled.json and set it to (room) camera.
 
 ## To Recap ##
 
-Once you save your enabled, disable, personalized zone with get, you can switch from one to another with set.
+Once you have saved your "enable", "disable" or "personalized" zone with get, you can switch from one to another with set.
 
