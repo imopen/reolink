@@ -4,7 +4,7 @@ First of all, thanks to @jasonk for his inspiring script https://gist.github.com
 that I simplified for my needs.
 
 reolink_zone.sh is bash script to get, set activation zone of reolink IP cameras with https web interface (E1 zoom, E1 outdoor for example), 
-with activation zones you can simply turn on and off cameras alarm, and coupled with home assistant you can arm them when at home and
+with activation zones you can simply turn on and off cameras alarm, and coupled with [home assistant](https://www.home-assistant.io/integrations/reolink/) you can arm them when at home and
 disarm when not, for example.
 
 ## Setup Credentials ##
